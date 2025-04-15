@@ -1,7 +1,7 @@
 {
   "name": "@edge/utils",
   "version": "0.1.0",
-  "description": "Unified Node.js utils package",
+  "description": "Unified utility library for the Edge Network",
   "main": "src/index.js",
   "author": "Edge Network <core@edge.network>",
   "contributors": [
