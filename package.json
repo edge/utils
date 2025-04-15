@@ -2,7 +2,7 @@
   "name": "@edge/utils",
   "version": "0.1.0",
   "description": "Unified utility library for the Edge Network",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "author": "Edge Network <core@edge.network>",
   "contributors": [
     "Adam K Dean <adam@edge.network>"
