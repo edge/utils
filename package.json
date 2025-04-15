@@ -1,6 +1,6 @@
 {
   "name": "@edge/utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Unified utility library for the Edge Network",
   "main": "lib/index.js",
   "author": "Edge Network <core@edge.network>",
