@@ -1,0 +1,20 @@
+{
+  "name": "@edge/utils",
+  "version": "0.1.0",
+  "description": "Unified Node.js utils package",
+  "main": "src/index.js",
+  "author": "Edge Network <core@edge.network>",
+  "contributors": [
+    "Adam K Dean <adam@edge.network>"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "type": "module",
+  "scripts": {
+    "test": "node --test lib/**/*.test.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.6.1",
+    "js-sha3": "^0.8.0"
+  }
+}
