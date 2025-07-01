@@ -33,4 +33,5 @@ export declare const WalletUtils: {
   xeStringFromMicroXe(mxe: number, format: boolean): string
   toMicroXe(xe: string | number): number
   formatXe(xe: string | number, format: boolean): string
+  getShortAddress(address: Address): string
 }
