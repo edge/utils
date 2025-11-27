@@ -13,8 +13,11 @@
     "test": "node --test lib/**/*.test.js"
   },
   "dependencies": {
+    "@edge/wallet-utils": "^0.16.1",
+    "argon2": "^0.44.0",
     "crypto-js": "^4.2.0",
     "elliptic": "^6.6.1",
-    "js-sha3": "^0.8.0"
+    "js-sha3": "^0.8.0",
+    "superagent": "^10.1.2"
   }
 }
